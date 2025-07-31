@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2>Contact Form</h2>
+      <h2>Contact Form update</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
